@@ -1,13 +1,11 @@
-<h1>Hi, I'm Ivana 👋🏾</h1>
+# Hi, I'm Ivana 👋🏾
 
-<p>
 Entry-level IT Support student with a focus on troubleshooting, system fundamentals,
 and hands-on labs using Windows and PowerShell.
-</p>
 
 ---
 
-<h2>🛠️ What I’m Working On</h2>
+## 🛠️ What I’m Working On
 
 - IT Support fundamentals (CourseCareers)
 - PowerShell labs and system inspection projects
@@ -16,12 +14,9 @@ and hands-on labs using Windows and PowerShell.
 
 ---
 
-<h2>📂 Featured Projects</h2>
+## 📂 Featured Projects
 
--<a href="https://github.com/WilliamsIvana64/IT-Support-PowerShell-Disk-Management">
-
-  IT Support PowerShell Disk Management Walkthrough
-  </a>  
+- [IT Support PowerShell Disk Management Walkthrough](PASTE-YOUR-POWERSHELL-REPO-LINK-HERE)  
   Simulates a real-world IT support workflow for safely inspecting disk information
   using PowerShell on Windows systems.
 
@@ -29,27 +24,21 @@ and hands-on labs using Windows and PowerShell.
 
 ---
 
-<h2>🌱 Currently Learning</h2>
+## 🌱 Currently Learning
 
-- Windows OS fundamentals  
-- Command-line tools (PowerShell)  
-- Hardware, storage, and system diagnostics  
-- Professional documentation for IT environments  
+- Windows OS fundamentals
+- Command-line tools (PowerShell)
+- Hardware, storage, and system diagnostics
+- Professional documentation for IT environments
 
 ---
 
-<h2>🤝 Connect With Me</h2>
+## 🤝 Connect With Me
 
-[<img align="left" alt="LinkedIn" width="22px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [LinkedIn](https://www.linkedin.com/in/williamsivana64/)
 
-<br />
-
-[linkedin]: https://www.linkedin.com/in/williamsivana64/
 ---
-
 ## 📚 Credits
-Template inspiration provided by my CourseCareers instructor.  
-All modifications and project content are my own.
+
 Template inspiration provided by my CourseCareers instructor.  
 All modifications and project content are my own.
