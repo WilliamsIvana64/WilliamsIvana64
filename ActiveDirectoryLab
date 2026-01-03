@@ -1,22 +1,45 @@
-<h1>Hi, I'm Ivana! </h1>
+<h1>Hi, I'm Ivana 👋🏾</h1>
 
-I'm learning all about Information Technology!
+<p>
+Entry-level IT Support student with a focus on troubleshooting, system fundamentals,
+and hands-on labs using Windows and PowerShell.
+</p>
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="IvanaWilliams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://https://www.linkedin.com/in/williamsivana64/
+---
 
-<!--
-**WilliamsIvana64/WilliamsIvana64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🛠️ What I’m Working On</h2>
 
-Here are some ideas to get you started:
+- IT Support fundamentals (CourseCareers)
+- PowerShell labs and system inspection projects
+- Understanding ticketing workflows and technical documentation
+- Building a strong GitHub portfolio for entry-level IT roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2>📂 Featured Projects</h2>
+
+- **IT Support PowerShell Disk Management Walkthrough**  
+  Simulates a real-world IT support workflow for safely inspecting disk information
+  using PowerShell on Windows systems.
+
+*(More projects coming as I complete labs and certifications.)*
+
+---
+
+<h2>🌱 Currently Learning</h2>
+
+- Windows OS fundamentals  
+- Command-line tools (PowerShell)  
+- Hardware, storage, and system diagnostics  
+- Professional documentation for IT environments  
+
+---
+
+<h2>🤝 Connect With Me</h2>
+
+[<img align="left" alt="LinkedIn" width="22px"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/williamsivana64/
