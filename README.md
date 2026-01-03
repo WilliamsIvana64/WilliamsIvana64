@@ -16,9 +16,10 @@ and hands-on labs using Windows and PowerShell.
 
 ## 📂 Featured Projects
 
-- [IT Support PowerShell Disk Management Walkthrough](PASTE-YOUR-POWERSHELL-REPO-LINK-HERE)  
+- [IT Support PowerShell Disk Management Walkthrough](https://github.com/williamsivana64/it-support-powershell-disk-management-walkthrough)  
   Simulates a real-world IT support workflow for safely inspecting disk information
   using PowerShell on Windows systems.
+
 
 *(More projects coming as I complete labs and certifications.)*
 
