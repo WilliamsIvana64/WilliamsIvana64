@@ -20,6 +20,8 @@ and hands-on labs using Windows and PowerShell.
   Simulates a real-world IT support workflow for safely inspecting disk information
   using PowerShell on Windows systems.
 
+- osTicket Ticket Lifecycle Lab  
+  Demonstrates a help desk ticketing workflow using a cloud-hosted ticketing system, including ticket creation, agent response, resolution, and closure.
 
 *(More projects coming as I complete labs and certifications.)*
 
