@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WilliamsIvana64/WilliamsIvana64/main/banner.png" alt="Ivana Williams – Entry-Level IT | IT Support Student">
+</p>
+
 # Hello, my name is Ivana. It's nice to meet you all! 👋🏾
 
 Entry-level IT Support student with a focus on troubleshooting, system fundamentals,
@@ -39,7 +43,11 @@ Simulates a help desk ticket lifecycle using Microsoft Azure. Demonstrates resou
 
 ## 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/williamsivana64/)
+<a href="https://www.linkedin.com/in/williamsivana64/" target="_blank">
+  <img src="LinkedIn icon.png" alt="LinkedIn" width="32"/>
+</a>
+&nbsp;  
+[LinkedIn](https://www.linkedin.com/in/williamsivana64/)
 
 ---
 ## 📚 Credits
